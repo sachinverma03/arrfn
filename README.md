@@ -4,7 +4,7 @@ npm module with array utility functions like create object from 2 arrays.
 for installing:
 ```
 npm install arrfn
-'''
+```
 
 usage:
 
